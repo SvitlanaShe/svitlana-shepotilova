@@ -26,6 +26,7 @@ To change emulator settings go to CoreTestCase and change capabilities
 In project right click on tests folder -> run tests
 Open emulator to see tests run
 
-
+video tests run
+https://drive.google.com/open?id=1CloG6Z2406VMhV2MWoaFJVGrID47nJn8
 
 
